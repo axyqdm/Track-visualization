@@ -4,7 +4,7 @@
 
 航迹图（蓝海陆灰轨迹.py）
 
-![](README图片\航线轨迹图.png)
+<img src="README图片\航线轨迹图.png" style="zoom:75%;" />
 
 时间-经纬度图
 
